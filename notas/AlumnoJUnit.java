@@ -1,0 +1,8 @@
+package notas;
+
+
+class AlumnoJUnit {
+
+	
+}
+	
